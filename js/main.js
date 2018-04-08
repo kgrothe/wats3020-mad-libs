@@ -63,10 +63,6 @@ let adjective5 = prompt ('Please enter another adjective to describe the vehicle
 
 let userNumber = prompt ('Please enter your favorite number:');
 
-// TODO: generate TWO more numbers called "number2" and "number 3".
-// Use any operator you would like to add, multiply, divide, or otherwise
-// change the number that the user submitted.
-
 let number2 = userNumber * 5;
 
 let number3 = number2/2 * (userNumber - 10);
