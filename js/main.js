@@ -11,19 +11,19 @@
 
 let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel):');
 
-let authorName = prompt('What is your full name?');
+let authorName = prompt('Please enter your full name:');
 
 let adjective1 = prompt('Please enter an adjective:');
 
-let vehicle = prompt('Please enter the name for a mode of transportation (e.g. plane, boat, etc.):');
+let vehicle = prompt('Please enter a vehicle/mode of transportation (e.g. plane, boat, etc.):');
 
 let vehiclePart = prompt('Please enter a part of the vehicle you just named:');
 
 let parking = prompt('Please enter a location to park the vehicle you just named:');
 
-let precious = prompt('Please enter the name of a precious object:');
+let precious = prompt('Please enter a precious object:');
 
-let noiseMaker = prompt('Please enter the name of something that makes a sound:');
+let noiseMaker = prompt('Please enter something that makes a sound:');
 
 let crowdBehavior = prompt('Please enter an activity people do together as a group:');
 
@@ -35,7 +35,7 @@ let color = prompt('Please enter a color:');
 
 let familyMember = prompt('Please enter the name for a family relationship (e.g. sister, father, etc.):');
 
-let organ = prompt('Please enter the name of an organ (e.g. heart, liver, spleen, etc.):');
+let organ = prompt('Please enter the name of a bodily organ (e.g. heart, liver, spleen, etc.):');
 
 let bodyPart1 = prompt('Please enter the name of a body part:');
 
@@ -43,11 +43,11 @@ let bodyPart2 = prompt('Please enter the name of a second body part:');
 
 let bodyPart3 = prompt('Please enter the name of a third body part.');
 
-let thing = prompt('Please enter the name of an object:');
+let thing = prompt('Please enter an object:');
 
-let thing2 = prompt('Please enter the name of an object that you might give somebody you love:');
+let thing2 = prompt('Please enter an object that you might give somebody you love:');
 
-let thing3 = prompt('Please enter the name of an object you might give somebody you like:');
+let thing3 = prompt('Please enter an object you might give somebody you like:');
 
 let adjective4 = prompt('Please enter an adjective to describe the vehicle named earlier:');
 
@@ -61,7 +61,7 @@ let adjective5 = prompt ('Please enter another adjective to describe the vehicle
 //
 // 
 
-let userNumber = prompt ('Please enter your favorite number');
+let userNumber = prompt ('Please enter your favorite number:');
 
 // TODO: generate TWO more numbers called "number2" and "number 3".
 // Use any operator you would like to add, multiply, divide, or otherwise
